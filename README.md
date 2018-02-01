@@ -3,7 +3,7 @@ P. Szczuko. ANN for human pose estimation in low resolution depth images. IEEE C
 
 
 The file is currently avaiable at dropbox:
-https://www.dropbox.com/sh/knbz1sk5ml6a9o5/AADP5BUU8QWi8F_pxnZo7Qi-a?dl=1
+https://www.dropbox.com/s/dsipgme3pwanmds/fullBody-exclFeet-correctRanges-SymFullRot200k.7z?dl=1
 
 This is 317MB 7z archive containing csv file, 3.6GB large.
 
