@@ -1,6 +1,12 @@
 Detailed documentation of this dataset can be found in:
-P. Szczuko. ANN for human pose estimation in low resolution depth images. IEEE Conf Signal Processing: Algorithms, Architectures, Arrangements, and Applications (SPA), pp. 354-359, 2017, https://doi.org/10.23919/SPA.2017.8166892
 
+P. Szczuko. ANN for human pose estimation in low resolution depth images. IEEE Conf Signal Processing: Algorithms, Architectures, Arrangements, and Applications (SPA), pp. 354-359, 2017, https://doi.org/10.23919/SPA.2017.8166892 (requires login to IEEE)
+
+P. Szczuko. CNN Architectures for Human Pose Estimation from a Very Low Resolution Depth Image, 11th Conf. HSI Human System Interaction 2018, pp. 118-124, https://doi.org/10.1109/HSI.2018.8431338  (requires login to IEEE)
+
+and comparison of models (my DNNN33 plus "transfer-learned" models of **SqueezeNet, MobileNet SSD, ResNet, VGG**) **performance** on this dataset is published in:
+
+P. Szczuko. Deep Neural Networks for Human Pose Estimation from a Low Resolution Depth Image, Multimedia Tools and Applications Journal 2019, https://doi.org/10.1007/s11042-019-7433-7 (open access from Springer, without login)
 
 The file is currently avaiable at dropbox:
 https://goo.gl/XWrgN5
